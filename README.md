@@ -1,2 +1,2 @@
-# Sistema-de-estoque-
-Sistema de estoque 
+# Sistema-de-permissoes-
+Sistema de permissoes 
